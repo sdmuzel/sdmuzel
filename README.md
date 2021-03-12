@@ -31,7 +31,7 @@
 
 <img align="left" alt="R Studio" width="26px" src="https://user-images.githubusercontent.com/71708626/110928481-b0d8b780-8305-11eb-8509-49073239ed40.png" />
 
-<img align="left" alt="Power BI" width="26px" src="https://user-images.githubusercontent.com/71708626/110929907-40329a80-8307-11eb-971b-9f7ec94b5cc6.png" />
+<img align="left" alt="Power BI" width="26px" src="https://user-images.githubusercontent.com/71708626/110930907-702e6d80-8308-11eb-8b03-9c4ad447bcf8.png" />
 
 <img align="left" alt="Tableau" width="26px" src="https://user-images.githubusercontent.com/71708626/110930621-19c12f00-8308-11eb-9319-93b0a1d1a6fb.png" />
 
