@@ -27,7 +27,8 @@
 
 <img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pandas.svg" />
 
-<img align="left" alt="R" width="26px" src= <"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.htanalyze.com%2Fmetanalise%2Ftutorial-metanalise-r%2F&psig=AOvVaw32bnI0Hh_wgoRC4Xa_iBb6&ust=1615631445710000&source=images&cd=vfe&ved=0CAYQjRxqFwoTCIiCzaXGqu8CFQAAAAAdAAAAABAY" / >
+<img align="left" alt="R" width="26px" src= <[image](https://user-images.githubusercontent.com/71708626/110928216-62c3b400-8305-11eb-8531-f6eb3dfe28c5.png)>
+
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
