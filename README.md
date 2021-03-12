@@ -39,6 +39,3 @@
 
 ---
 
-<img align="left" alt="Sarah's github stats" src="https://github-readme-stats.vercel.app/api?username=sdmuzel&show_icons=true&hide_border=true" />
-
-
