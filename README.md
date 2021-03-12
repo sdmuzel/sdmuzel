@@ -33,6 +33,8 @@
 
 <img align="left" alt="Power BI" width="26px" src="https://user-images.githubusercontent.com/71708626/110929907-40329a80-8307-11eb-971b-9f7ec94b5cc6.png" />
 
+<img align="left" alt="Tableau" width="26px" src="https://user-images.githubusercontent.com/71708626/110930621-19c12f00-8308-11eb-9319-93b0a1d1a6fb.png" />
+
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
