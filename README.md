@@ -29,6 +29,9 @@
 
 <img align="left" alt="R" width="26px" src= "https://user-images.githubusercontent.com/71708626/110928123-46c01280-8305-11eb-9b50-74e8d94e11a4.png" />
 
+<img align="left" alt="R" width="26px" src="https://user-images.githubusercontent.com/71708626/110928481-b0d8b780-8305-11eb-8509-49073239ed40.png" />
+
+
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
