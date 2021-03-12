@@ -19,9 +19,11 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
+<img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 
-<img align="left" alt="visual studio code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Atom" width="26px" src="https://user-images.githubusercontent.com/71708626/110931021-8fc59600-8308-11eb-92c2-aecf0a1d4064.png" />
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pandas.svg" />
 
@@ -34,6 +36,8 @@
 <img align="left" alt="Power BI" width="26px" src="https://user-images.githubusercontent.com/71708626/110930907-702e6d80-8308-11eb-8b03-9c4ad447bcf8.png" />
 
 <img align="left" alt="Tableau" width="26px" src="https://user-images.githubusercontent.com/71708626/110930621-19c12f00-8308-11eb-9319-93b0a1d1a6fb.png" />
+
+<img align="left" alt="Minitab" width="26px" src="https://user-images.githubusercontent.com/71708626/110931244-cbf8f680-8308-11eb-84ad-48fd1b7913af.png" />
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
