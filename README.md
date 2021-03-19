@@ -45,3 +45,11 @@
 
 <br />
 <br />
+--
+
+* Conceitos e Aplicações sobre Data Science
+* Python <a href="https://youtu.be/9Z9CsZCFsTE" target="_blank" rel="noopener noreferrer">Jupyter Notebooks</a></td>
+* Pytho para Data Science
+* 
+
+
