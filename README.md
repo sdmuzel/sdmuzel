@@ -2,7 +2,7 @@
 
 ## I am a person who saw that the data well-analyzed is powerful and that is why I am studying to become a data scientist, to change not only scientific research but society as a whole!
 
-- 💻 I am currently finishing my doctorate and studying to be a data scientist.
+- 💻 I'm a PhD in manufacturing processesand and studying to be a data scientist.
 - 📈 I'm constantly learning and improving my skills 🤣
 - 📊 I intend to collaborate with other data scientists and developers
 
