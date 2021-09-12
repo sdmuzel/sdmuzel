@@ -1,6 +1,6 @@
 ### Sarah David Müzel - [Data Scientist training] 👋
 
-## I am a Ph.D. student who saw that the data well-analyzed is powerful and that is why I am studying to become a data scientist, to change not only scientific research but society as a whole!
+## I am a person who saw that the data well-analyzed is powerful and that is why I am studying to become a data scientist, to change not only scientific research but society as a whole!
 
 - 💻 I am currently finishing my doctorate and studying to be a data scientist.
 - 📈 I'm constantly learning and improving my skills 🤣
