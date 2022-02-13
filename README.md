@@ -2,7 +2,7 @@
 
 ## I am a person who saw that the data well-analyzed is powerful and that is why I am studying to become a data scientist, to change not only scientific research but society as a whole!
 
-- 💻 I'm a PhD in manufacturing processesand and studying to be a data scientist.
+- 💻 I'm a PhD in engineering and studying to be a data scientist.
 - 📈 I'm constantly learning and improving my skills 🤣
 - 📊 I intend to collaborate with other data scientists and developers
 
@@ -21,11 +21,13 @@
 
 <img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 
-<img align="left" alt="Atom" width="26px" src="https://user-images.githubusercontent.com/71708626/110931021-8fc59600-8308-11eb-92c2-aecf0a1d4064.png" />
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
 <img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pandas.svg" />
+
+<img align="left" alt="Sklearning" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />
+
+<img align="left" alt="Matplotlib" width="26px" src="https://w7.pngwing.com/pngs/215/492/png-transparent-matplotlib-python-computer-software-introduction-to-algorithms-angle-symmetry-plot.png" />
+
+<img align="left" alt="Seaborn" width="26px" src="https://avatars.githubusercontent.com/u/22799945?s=200&v=4" />
 
 <img align="left" alt="SQL" width="26px" src="https://user-images.githubusercontent.com/71708626/110930288-ae775d00-8307-11eb-9267-7d9c58ab4df9.png" />
 
