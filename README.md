@@ -1,8 +1,8 @@
-### Sarah David Müzel - [Data Scientist training] 👋
+### Sarah David Müzel 👋
 
 ## I am a person who saw that the data well-analyzed is powerful and that is why I am studying to become a data scientist, to change not only scientific research but society as a whole!
 
-- 💻 I'm a PhD in engineering and studying to be a data scientist.
+- 💻 I'm a PhD in engineering and a data scientist.
 - 📈 I'm constantly learning and improving my skills 🤣
 - 📊 I intend to collaborate with other data scientists and developers
 
@@ -23,7 +23,9 @@
 
 <img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pandas.svg" />
 
-<img align="left" alt="Sklearning" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />
+<img align="left" alt="Sklearning" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />
+
+<img align="left" alt="PySpark" width="40px" src="https://miro.medium.com/max/1400/0*bqHf2WCDUlm7_hU3.png" />
 
 <img align="left" alt="Matplotlib" width="26px" src="https://w7.pngwing.com/pngs/215/492/png-transparent-matplotlib-python-computer-software-introduction-to-algorithms-angle-symmetry-plot.png" />
 
