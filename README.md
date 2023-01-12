@@ -23,9 +23,11 @@
 
 <img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pandas.svg" />
 
-<img align="left" alt="Sklearning" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />
+<img align="left" alt="Sklearning" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />
 
-<img align="left" alt="PySpark" width="40px" src="https://miro.medium.com/max/1400/0*bqHf2WCDUlm7_hU3.png" />
+<img align="left" alt="PySpark" width="45px" src="https://miro.medium.com/max/1400/0*bqHf2WCDUlm7_hU3.png" />
+
+<img align="left" alt="Koalas" width="30px" src="https://raw.githubusercontent.com/databricks/koalas/master/icons/koalas-logo.png" />
 
 <img align="left" alt="Matplotlib" width="26px" src="https://w7.pngwing.com/pngs/215/492/png-transparent-matplotlib-python-computer-software-introduction-to-algorithms-angle-symmetry-plot.png" />
 
@@ -45,7 +47,7 @@
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <br />
 <br />
